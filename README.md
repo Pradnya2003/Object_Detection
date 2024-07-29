@@ -1,4 +1,4 @@
-# YOLO Object Detection with OpenCV
+# YOLO Object Detection with OpenCV✨
 
 This repository contains a Python program for object detection using the YOLO (You Only Look Once) model with OpenCV.
 
